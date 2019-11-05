@@ -1,7 +1,7 @@
 # nic-awesome-JupyterLab
 Nic's best favourite and useful JupyterLab extensions and resources. 
 
-Inspired by [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab)
+Inspired by [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab). 
 
 
 # Extensions
@@ -13,11 +13,12 @@ Inspired by [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab)
 
 ## Interactive widgets
 - [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib) - Make your plots interactive.
-- [Voilà](https://github.com/voila-dashboards/voila) - S
+- [Voilà](https://github.com/voila-dashboards/voila) - Interactive renders for sliders, table and plots.
 
 # Other awesome lists
--[Top rated jupyterlab extensions](https://awesomeopensource.com/projects/jupyterlab-extension)
--[awesome Jupyter Lab](https://github.com/mauhai/awesome-jupyterlab) - Interactive renders for sliders, table and plots.
+- [Top rated JupyterLab extensions](https://awesomeopensource.com/projects/jupyterlab-extension) -T op rated JupyterLab extensions.
+- [awesome Jupyter Lab](https://github.com/mauhai/awesome-jupyterlab) - A curated list of JupyterLab extensions and resources.
+
 
 # I am looking for? Sueggest!
 - Progress bar or cells runtime printer. Similar to what you can do using [tqdm](https://github.com/tqdm/tqdm), but automatic.
