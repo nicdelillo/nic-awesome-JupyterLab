@@ -42,7 +42,7 @@ Supposing `my-env` is where your JupyterLab is, and `my-other-env` is the enviro
 
 You should see a message sounding like: 
 
-    Installed kernelspec my-other-env in User/Library/Jupyter/kernels/my-other-env
+    Installed kernelspec my-other-env in User/Library/Jupyter/kernels/<any_name_for_kernel>
 
 Now open JupyterLab from `my-env` to check if you can see the new kernel.
 
