@@ -8,7 +8,7 @@ Inspired by [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab).
 - [Spellchecker](https://github.com/ijmbarr/jupyterlab_spellchecker) - Spellchecker for markdown cells.
 - [Collapsable Headings](https://github.com/aquirdTurtle/Collapsible_Headings) - Collapse all the cells under the same header.
 - [Table of contents generator](https://github.com/jupyterlab/jupyterlab-toc) - Nice sidebar table of content generator to navigate your notebook
-- [Go to definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Allows you to Alt + click on a variable to jump to its definition.
+- [Go to definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Allows you to <kbd>Alt</kbd> + <kbd>click</kbd> on a variable or function, to jump to its definition.
 - [Variable Inspector](https://github.com/lckr/jupyterlab-variableInspector) - Interactive variable inspector.
 
 ## Interactive widgets
