@@ -32,7 +32,7 @@ Keyboard shortcuts for JupyterNotebook.
 
 
 # Tip for setting JupyterLab with conda
-[Install]:(https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) JupyterLab in your `myenv` conda environment. To keep JupyterLab always up to date, the idea is to run JupyterLab from your `myenv` and install kernels from different environments, for example `my-other-env`.
+[Install](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) JupyterLab in your `myenv` conda environment. To keep JupyterLab always up to date, the idea is to run JupyterLab from your `myenv` and install kernels from different environments, for example `my-other-env`.
 
 To install kernels from a different environment, install `iperkernel` ([iperkernel doc](https://ipython.readthedocs.io/en/stable/install/kernel_install.html) in each environment you want to use.
 To access kernels from environment to a differnt one
