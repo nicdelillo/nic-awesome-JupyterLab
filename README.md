@@ -1,7 +1,7 @@
 # nic-awesome-JupyterLab
 Nic's best favourite and useful JupyterLab extensions and resources. 
 
-Inspired by [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab). And...my old .doc list :)
+Inspired by [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab). 
 
 
 # Extensions
