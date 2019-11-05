@@ -51,7 +51,8 @@ Now open JupyterLab from `myenv` to check if you can see the new kernel.
     $ conda activate myenv
     (my-env)$ jupyter lab
 
-
+### Check your current extension list
+    (my-env)$ jupyter labextension list
 
 
 
