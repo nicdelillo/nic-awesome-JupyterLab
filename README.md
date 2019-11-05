@@ -5,11 +5,11 @@ Inspired by [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab)
 
 
 # Extensions
-- [Spellchecker for markdown cells](https://github.com/ijmbarr/jupyterlab_spellchecker)
-- [Collapsable Headings](https://github.com/aquirdTurtle/Collapsible_Headings)
-- [Table of contents generator](https://github.com/jupyterlab/jupyterlab-toc)
-- [Go to definition](https://github.com/krassowski/jupyterlab-go-to-definition)
-- [Variable Inspector](https://github.com/lckr/jupyterlab-variableInspector)
+- [Spellchecker](https://github.com/ijmbarr/jupyterlab_spellchecker) - Spellchecker for markdown cells.
+- [Collapsable Headings](https://github.com/aquirdTurtle/Collapsible_Headings) - Collapse all the cells under the same header.
+- [Table of contents generator](https://github.com/jupyterlab/jupyterlab-toc) - Nice sidebar table of content generator to navigate your notebook
+- [Go to definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Allows you to Alt + click on a variable to jump to its definition.
+- [Variable Inspector](https://github.com/lckr/jupyterlab-variableInspector) - Interactive variable inspector.
 
 ## Interactive widgets
 - [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib) - Make your plots interactive.
