@@ -1,5 +1,5 @@
 # nic-awesome-JupyterLab
-Nic's best favourite and useful JupyterLab extensions and resources. 
+Nic's best favourite and useful [JupyterLab](https://github.com/jupyterlab/jupyterlab) extensions and resources. 
 
 Inspired by [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab). 
 
