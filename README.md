@@ -17,7 +17,7 @@ Inspired by [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab).
 
 # Other awesome lists
 - [Top rated JupyterLab extensions](https://awesomeopensource.com/projects/jupyterlab-extension) -T op rated JupyterLab extensions.
-- [awesome Jupyter Lab](https://github.com/mauhai/awesome-jupyterlab) - A curated list of JupyterLab extensions and resources.
+- [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab) - A curated list of JupyterLab extensions and resources.
 
 
 # I am looking for? Sueggest!
