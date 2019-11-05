@@ -26,7 +26,7 @@ Inspired by [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab).
 
 ## I am looking for:
 - Progress bar or cells runtime printer. Similar to what you can do using [tqdm](https://github.com/tqdm/tqdm), but automatic.
-- An code hider that allows to show only results and markdowns. There one not working on new jupyterlab version
+- A code hider that allows to show only results and markdowns. There one not working on new jupyterlab version
 [jlab-hide-code ](https://github.com/AixViPMaP/jlab-hide-code).
 
 
