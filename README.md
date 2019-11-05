@@ -11,7 +11,7 @@ Inspired by [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab).
 - [Go to definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Allows you to <kbd>Alt</kbd> + <kbd>click</kbd> on a variable or function, to jump to its definition.
 - [Variable Inspector](https://github.com/lckr/jupyterlab-variableInspector) - Interactive variable inspector.
 
-## Interactive widgets
+### Interactive widgets
 - [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib) - Make your plots interactive.
 - [Voilà](https://github.com/voila-dashboards/voila) - Interactive renders for sliders, table and plots.
 
