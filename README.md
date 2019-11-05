@@ -33,12 +33,12 @@ Inspired by [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab).
 ## Tip for setting JupyterLab with conda
 [Install](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) JupyterLab in your `my-env` conda environment. To keep JupyterLab always up to date, the idea is to run JupyterLab from your `my-env` and install kernels from different environments, for example `my-other-env`.
 
-To install kernels from a different environment, install `iperkernel` ([doc](https://ipython.readthedocs.io/en/stable/install/kernel_install.html)) in each environment you want to use.
-To access kernels from environment to a differnt one
+To install kernels from a different environment, install `ipykernel` ([doc](https://ipython.readthedocs.io/en/stable/install/kernel_install.html)) in each environment you want to use.
 Supposing `my-env` is where your JupyterLab is, and `my-other-env` is the environment containing the kernel you want to access:
 
     $ conda activate my-other-env
-    (my-other-env)$ ipython kernel install --user --name=my-other-env
+    (my-other-kernel)$ conda install ipykernel
+    (my-other-env)$ ipython kernel install --user --name=<any_name_for_kernel>
 
 You should see a message sounding like: 
 
