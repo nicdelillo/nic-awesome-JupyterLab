@@ -38,7 +38,7 @@ To install kernels from a different environment, install `iperkernel` ([iperkern
 To access kernels from environment to a differnt one
 Supposing `myenv` is where your JupyterLab is, and `my-other-env` is the environment containing the kernel you want to access:
 
-    $ conda activate my-other-enve
+    $ conda activate my-other-env
     (my-other-env)$ ipython kernel install --user --name=my-other-env
 
 You should see a message sounding like: 
