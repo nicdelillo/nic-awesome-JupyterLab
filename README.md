@@ -31,11 +31,11 @@ Inspired by [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab).
 
 
 ## Tip for setting JupyterLab with conda
-[Install](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) JupyterLab in your `myenv` conda environment. To keep JupyterLab always up to date, the idea is to run JupyterLab from your `myenv` and install kernels from different environments, for example `my-other-env`.
+[Install](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) JupyterLab in your `my-env` conda environment. To keep JupyterLab always up to date, the idea is to run JupyterLab from your `my-env` and install kernels from different environments, for example `my-other-env`.
 
 To install kernels from a different environment, install `iperkernel` ([doc](https://ipython.readthedocs.io/en/stable/install/kernel_install.html)) in each environment you want to use.
 To access kernels from environment to a differnt one
-Supposing `myenv` is where your JupyterLab is, and `my-other-env` is the environment containing the kernel you want to access:
+Supposing `my-env` is where your JupyterLab is, and `my-other-env` is the environment containing the kernel you want to access:
 
     $ conda activate my-other-env
     (my-other-env)$ ipython kernel install --user --name=my-other-env
@@ -44,10 +44,10 @@ You should see a message sounding like:
 
     Installed kernelspec my-other-env in User/Library/Jupyter/kernels/my-other-env
 
-Now open JupyterLab from `myenv` to check if you can see the new kernel.
+Now open JupyterLab from `my-env` to check if you can see the new kernel.
 
     (my-other-env)$ conda deactivate
-    $ conda activate myenv
+    $ conda activate my-env
     (my-env)$ jupyter lab
 
 #### Check your current extension list
