@@ -16,8 +16,7 @@ Inspired by [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab).
 - [Voilà](https://github.com/voila-dashboards/voila) - Interactive renders for sliders, table and plots.
 
 ## Resources
-- [Shortcuts for JupyterLab](https://gist.github.com/kidpixo/f4318f8c8143adee5b40#file-jupyter_shortcuts-md). 
-Keyboard shortcuts for JupyterNotebook.
+- [Shortcuts for JupyterLab](https://gist.github.com/kidpixo/f4318f8c8143adee5b40#file-jupyter_shortcuts-md) - Keyboard shortcuts for JupyterNotebook.
 
 ## Other awesome lists
 - [Top rated JupyterLab extensions](https://awesomeopensource.com/projects/jupyterlab-extension) -T op rated JupyterLab extensions.
