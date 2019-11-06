@@ -19,13 +19,13 @@ Inspired by [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab).
 - [Shortcuts for JupyterLab](https://gist.github.com/kidpixo/f4318f8c8143adee5b40#file-jupyter_shortcuts-md) - Keyboard shortcuts for JupyterNotebook.
 
 ## Other awesome lists
-- [Top rated JupyterLab extensions](https://awesomeopensource.com/projects/jupyterlab-extension) -T op rated JupyterLab extensions.
+- [Top rated JupyterLab extensions](https://awesomeopensource.com/projects/jupyterlab-extension) - Top rated JupyterLab extensions.
 - [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab) - A curated list of JupyterLab extensions and resources.
 
 
 
 ## I am looking for:
-Please ping me if you find one of these exstensions around the globe:
+Please ping me if you find one of these extensions around the globe:
 - Progress bar or cells runtime printer. Similar to what you can do using [tqdm](https://github.com/tqdm/tqdm), but automatic.
 - A code hider that allows to show only results and markdowns. There is one not working on the latest jupyterlab version
 [jlab-hide-code ](https://github.com/AixViPMaP/jlab-hide-code).
@@ -41,7 +41,7 @@ Supposing `my-env` is where your JupyterLab is, and `my-other-env` is the enviro
     (my-other-env)$ conda install ipykernel
     (my-other-env)$ ipython kernel install --user --name=my-other-env --display-name="<any_name_for_kernel>" 
 
-Where `--name` refers to the environment, while `--display-name` is the name will be displayed in the JupyterLab launcher for this kernel. If you do not pass that optio, it will be given same name as for the environment.
+Where `--name` refers to the environment, while `--display-name` is the name will be displayed in the JupyterLab launcher for this kernel. If you do not pass that option, environment name will be used.
 You should see a message sounding like: 
 
     Installed kernelspec my-other-env in User/Library/Jupyter/kernels/<any_name_for_kernel>
