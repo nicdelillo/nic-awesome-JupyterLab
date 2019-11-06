@@ -39,8 +39,9 @@ Supposing `my-env` is where your JupyterLab is, and `my-other-env` is the enviro
 
     $ conda activate my-other-env
     (my-other-env)$ conda install ipykernel
-    (my-other-env)$ ipython kernel install --user --name=<any_name_for_kernel>
+    (my-other-env)$ ipython kernel install --user --name=my-other-env --display-name="<any_name_for_kernel>" 
 
+Where `--name` refers to the environment, while `--display-name` is the name will be displayed in the JupyterLab launcher for this kernel. If you do not pass that optio, it will be given same name as for the environment.
 You should see a message sounding like: 
 
     Installed kernelspec my-other-env in User/Library/Jupyter/kernels/<any_name_for_kernel>
@@ -50,6 +51,10 @@ Now open JupyterLab from `my-env` to check if you can see the new kernel.
     (my-other-env)$ conda deactivate
     $ conda activate my-env
     (my-env)$ jupyter lab
+    
+NOTE: an equivalent way to install a kernel is:
+
+    (my-other-env)$ python -m ipykernel install --user --name=my-other-env --display-name="<any_name_for_kernel>" 
 
 #### Check your current extension list
     (my-env)$ jupyter labextension list
