@@ -10,7 +10,7 @@ Inspired by [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab).
 - [Table of contents generator](https://github.com/jupyterlab/jupyterlab-toc) - Nice sidebar table of content generator to navigate your notebook
 - [Go to definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Allows you to <kbd>Alt</kbd> + <kbd>click</kbd> on a variable or function, to jump to its definition.
 - [Variable Inspector](https://github.com/lckr/jupyterlab-variableInspector) - Interactive variable inspector.
-- [Automatic cell's run time](https://github.com/deshaw/jupyterlab-execute-time) - Instructions how to install [here](https://stackoverflow.com/questions/56843745/automatic-cell-execution-timing-in-jupyter-lab). Prints the cels runtime.
+- [Automatic cell's run time](https://github.com/deshaw/jupyterlab-execute-time) - Instructions how to install [here](https://stackoverflow.com/questions/56843745/automatic-cell-execution-timing-in-jupyter-lab). Prints the cells runtime.
 
 #### Interactive widgets
 - [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib) - Make your plots interactive.
