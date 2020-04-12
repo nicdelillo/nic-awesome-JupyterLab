@@ -23,11 +23,11 @@ Inspired by [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab).
 - [Top rated JupyterLab extensions](https://awesomeopensource.com/projects/jupyterlab-extension) - Top rated JupyterLab extensions.
 - [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab) - A curated list of JupyterLab extensions and resources.
 
-
+## More awesome links
+- Progress bar using [tqdm](https://github.com/tqdm/tqdm)
 
 ## I am looking for:
 Please ping me if you find one of these extensions around the globe:
-- Progress bar or cells runtime printer. Similar to what you can do using [tqdm](https://github.com/tqdm/tqdm), but automatic.
 - A code hider that allows to show only results and markdowns. There is one not working on the latest jupyterlab version
 [jlab-hide-code ](https://github.com/AixViPMaP/jlab-hide-code).
 
