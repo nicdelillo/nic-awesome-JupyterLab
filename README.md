@@ -5,7 +5,7 @@ Inspired by [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab).
 
 
 ## Extensions
-- [Monokai ++](https://www.npmjs.com/package/@hokyjack/jupyterlab-monokai-plus) - A monokai dark theme similar to the Vim theme. 
+- [Monokai++ Theme](https://www.npmjs.com/package/@hokyjack/jupyterlab-monokai-plus) - A monokai dark theme similar to the Vim theme. 
 - [Spellchecker](https://github.com/ijmbarr/jupyterlab_spellchecker) - Spellchecker for markdown cells.
 - [Collapsable Headings](https://github.com/aquirdTurtle/Collapsible_Headings) - Collapse all the cells under the same header.
 - [Table of contents generator](https://github.com/jupyterlab/jupyterlab-toc) - Nice sidebar table of content generator to navigate your notebook
