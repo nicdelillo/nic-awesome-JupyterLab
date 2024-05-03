@@ -9,7 +9,7 @@ Inspired by [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab).
 - [Spellchecker](https://github.com/ijmbarr/jupyterlab_spellchecker) - Spellchecker for markdown cells.
 - [Collapsable Headings](https://github.com/aquirdTurtle/Collapsible_Headings) - Collapse all the cells under the same header.
 - [Table of contents generator](https://github.com/jupyterlab/jupyterlab-toc) - Nice sidebar table of content generator to navigate your notebook
-- [Go to definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Allows you to <kbd>Alt</kbd> + <kbd>click</kbd> on a variable or function, to jump to its definition. Not maintained but included in [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) which provides more features, including advanced autocompletion, code navigation, hover suggestions, linters, etc.
+- [Go to definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Allows you to <kbd>Alt</kbd> + <kbd>click</kbd> on a variable or function, to jump to its definition. Not maintained but included in [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) which provides more features, including advanced autocompletion, variable renaming, code navigation, hover suggestions, linters, etc.
 - [Variable Inspector](https://github.com/lckr/jupyterlab-variableInspector) - Interactive variable inspector.
 - [Execute Time](https://github.com/deshaw/jupyterlab-execute-time) - Instructions how to install [here](https://stackoverflow.com/questions/56843745/automatic-cell-execution-timing-in-jupyter-lab). Prints the cells runtime.
 - [System Monitor](https://github.com/jtpio/jupyterlab-system-monitor) - Monitors cpu and memory usage see als below for Top Bar Extension
